@@ -1,0 +1,15 @@
+{
+	"name": "df-andyproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "adcd22bb-6c00-4b4e-bff9-fd797162402e",
+		"tenantId": "f2053b4f-615a-47d5-9dbb-ccff582388e8"
+	}
+}
